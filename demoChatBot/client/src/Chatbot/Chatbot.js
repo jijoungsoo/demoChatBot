@@ -178,8 +178,6 @@ function Chatbot() {
         }}>
             <div style={{ height: 644, width: '100%', overflow: 'auto' }}>
                 {renderMessage(messagesFromRedux)}
-
-
             </div>
             <input
                 style={{
